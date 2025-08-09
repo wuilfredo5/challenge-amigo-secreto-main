@@ -41,4 +41,12 @@ function sortearAmigo() {
     const nombreSorteado = amigos[indice];
 
 
+
+    // Muestra el resultado en la página
+    resultado.innerHTML = `<li>El amigo secreto es: <strong>${nombreSorteado}</strong></li>`;
+    // Limpia la lista de amigos en pantalla
+    document.getElementById('listaAmigos').innerHTML = "";
+}
+
+
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
