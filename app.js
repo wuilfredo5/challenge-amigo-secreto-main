@@ -11,5 +11,15 @@ function agregarAmigo() {
     if (nombre === "") {
         alert("Por favor, inserte un nombre.");
         return;
-    }
+    }   // Agrega el nombre al array de amigos
+    amigos.push(nombre);
+
+    // Limpia el campo de entrada
+    input.value = "";
+
+    // Actualiza la lista en pantalla
+    mostrarListaAmigos();
+}
+
+
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
