@@ -3,7 +3,7 @@ let amigos = [];
 
 // Función para agregar un amigo a la lista
 function agregarAmigo() {
-    // Captura el valor del campo de entrada
+   // Captura el valor del campo de entrada
     const input = document.getElementById('amigo');
     const nombre = input.value.trim();
 
@@ -13,7 +13,7 @@ function agregarAmigo() {
         return;
     }   
     
-    // Agrega el nombre al array de amigos
+   // Agrega el nombre al array de amigos
     amigos.push(nombre);
 
     // Limpia el campo de entrada
@@ -23,10 +23,10 @@ function agregarAmigo() {
     mostrarListaAmigos();
 }
 
-
 // Función para sortear un amigo de la lista
 function sortearAmigo() {
-    // Selecciona el elemento donde se mostrará el resultado
+    
+  // Selecciona el elemento donde se mostrará el resultado
     const resultado = document.getElementById('resultado');
 
     // Valida que haya al menos un amigo en la lista
@@ -66,4 +66,4 @@ function mostrarListaAmigos() {
 }
 
 
-// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
+
