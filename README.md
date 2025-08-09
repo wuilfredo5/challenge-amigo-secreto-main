@@ -2,6 +2,9 @@
 
 Este es un sencillo juego web de "Amigo Secreto" desarrollado con HTML, CSS y JavaScript puro.
 
+
+![imagen de juego](assets/AmigS.png)
+
 ## Descripción
 Permite a los usuarios ingresar nombres de amigos en una lista y, posteriormente, realizar un sorteo aleatorio para determinar quién es el "amigo secreto".
 
@@ -20,7 +23,16 @@ Permite a los usuarios ingresar nombres de amigos en una lista y, posteriormente
 ## Estructura de archivos
 - `index.html`: Estructura principal de la página.
 - `style.css`: Estilos visuales y responsivos.
-- `app.js`: Lógica del juego (agregar, mostrar y sortear amigos).
+- `app.js`: Lógica del juego (agregar, mostrar y sortear amigos).# Mi Juego Arcade
+
+
+## 🎮 URL del juego
+[Jugar aquí]()  
+
+## 👤 Autor  
+**Hecho por [Wuilfredo Fuentes](https://github.com/wuilfredo5)**  
+
+  
 
 ## Créditos
 Desarrollado como parte de un desafío de programación.
