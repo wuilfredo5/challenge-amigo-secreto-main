@@ -25,12 +25,17 @@ Permite a los usuarios ingresar nombres de amigos en una lista y, posteriormente
 - `style.css`: Estilos visuales y responsivos.
 - `app.js`: Lógica del juego (agregar, mostrar y sortear amigos).# Mi Juego Arcade
 
+## 🌐 Enlaces importantes  
 
-## 🎮 URL del juego
-[Jugar aquí]()  
+### 🎮 URL del Juego  
+🔗 [Jugar ahora](https://wuilfredo5.github.io/challenge-amigo-secreto-main/)  
 
-## 👤 Autor  
-**Hecho por [Wuilfredo Fuentes](https://github.com/wuilfredo5)**  
+### 💻 Repositorio del Proyecto  
+📂 [Ver código en GitHub](https://github.com/wuilfredo5/challenge-amigo-secreto-main)  
+
+---
+
+✨ **Autor**: [TuNombre](https://github.com/wuilfredo5)  
 
   
 
